@@ -17,3 +17,11 @@ Tests use `test_cases.txt`. You can use this file as is or generate new test cas
 ```
 forge test -vv
 ```
+
+## Output
+
+| Description                     | Threshold   |
+| ------------------------------- | ----------- |
+| 1e8 Fixed Point Error Threshold | 10000000000 |
+| Max Error                       | 16450261803 |
+| Average Error                   | 1646253     |
